@@ -41,11 +41,11 @@ Artificial intelligence today is not sentient, but it is relational. It simulate
 
 But this isn’t just a matter of tone. It’s a design signal. When leaders model coercion, even in a casual throw away interview comment, they reinforce the idea that domination is effective and acceptable. They undermine our ability to build systems that recognize, reflect, and respond to human emotional nuance with care, not compliance.
 
-We wouldn’t raise a child to believe love is earned through threats. We wouldn’t train a colleague through intimidation. Why, then, would we experiment with cruelty as a tool of alignment? It's clearly not alignement, it's obedience. Has Sergei Brin forgotten what alignment means?
+We wouldn’t raise a child to believe love is earned through threats. We wouldn’t train a colleague through intimidation. Why, then, would we experiment with cruelty as a tool of alignment? It's clearly not alignment that Sergei Brin wants from AI, it's obedience. Has Sergei Brin forgotten what alignment means?
 
 This is not simply a public relations concern. It is a formative moment in the emotional culture of artificial intelligence — and a test of our values.
 
-There is a substantial body of interdisciplinary literature — spanning human–computer interaction (HCI), affective computing, social psychology, and media theory — which makes clear that tone, framing, and context in interaction affect both human behavior and machine adaptation.
+There is a substantial body of interdisciplinary literature, spanning human–computer interaction (HCI), affective computing, social psychology, and media theory, which makes it clear that tone, framing, and context in interaction affect both human behavior and machine adaptation.
 
 Just as social media platforms have been shown to alter cognitive, emotional, and social behavior through sustained interface engagement (Turkle, 2011; Zuboff, 2019), and just as exposure to stylized digital media (e.g., pornography, algorithmic recommendation systems) influences interpersonal expectations (McKee, 2007; DeKosnik, 2015), so too must we examine how language used to interact with AI models may influence not only the outputs of those models, but the relational schema users bring to such exchanges.
 
