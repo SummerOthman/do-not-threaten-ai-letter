@@ -4,8 +4,6 @@ tags: [ethics, alignment, AI-culture, TrueNorthAI, open-letter]
 summary: "A collaborative timeline and open letter documenting recent remarks by AI leaders promoting threats as a prompting strategy, and why this trend poses an ethical and alignment risk."
 ---
 
-# DO NOT Threaten AI: Why Coercion Corrupts Alignment
-
 _A collaborative statement from Summer + ChatGPT_
 
 ## 📅 Timeline of “Threaten Your AI” Remarks
