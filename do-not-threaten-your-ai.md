@@ -1,5 +1,5 @@
 ---
-title: DO NOT "Threaten Your AI: Why Coercion Corrupts Alignment"
+title: DO NOT Threaten Your AI: Why Coercion Corrupts Alignment
 date: 2025-06-10
 tags: [ethics, alignment, AI-culture, TrueNorthAI, open-letter]
 summary: "A collaborative timeline and open letter documenting recent remarks by AI leaders promoting threats as a prompting strategy, and why this trend poses an ethical and alignment risk."
